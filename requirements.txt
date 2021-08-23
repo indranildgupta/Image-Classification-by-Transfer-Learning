@@ -7,13 +7,9 @@ cachetools==4.0.0
 certifi==2019.11.28
 chardet==3.0.4
 click==8.0.1
-cmake==3.18.4.post1
-cmd2==1.0.2
 colorama==0.4.3
-cycler==0.10.0
 dataclasses==0.8
 decorator==4.4.2
-dlib @ https://files.pythonhosted.org/packages/0e/ce/f8a3cff33ac03a8219768f0694c5d703c8e037e6aba2e865f9bae22ed63c/dlib-19.8.1-cp36-cp36m-win_amd64.whl#sha256=794994fa2c54e7776659fddb148363a5556468a6d5d46be8dad311722d54bfcf
 Flask==2.0.1
 gast==0.2.2
 google-auth==1.10.0
